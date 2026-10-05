@@ -27,7 +27,7 @@ The videos linked below show my own Colab runs. In each video, I explain the imp
 
 This notebook demonstrates how KMeans groups similar data points into clusters. It covers the basic algorithm, choosing the number of clusters, visualizing the clusters, and relevant variations or evaluation methods included in the reference notebook.
 
-- Google Colab copy: https://colab.research.google.com/drive/1Y3FIxtcao1HT0W00ETM8rP9kM-fuKBM2#scrollTo=cI4V2Pm8BTYZ
+- Google Colab copy: https://colab.research.google.com/drive/1j1g9J5198hLL9wIBLGybnPXP8WUwJ2vW#scrollTo=jdgSKbBsBTY1
 - YouTube walkthrough: https://youtu.be/lT0EGSnYh8w
 
 ## Part 2: AutoGluon capabilities landscape
