@@ -27,15 +27,13 @@ The videos linked below show my own Colab runs. In each video, I explain the imp
 
 This notebook demonstrates how KMeans groups similar data points into clusters. It covers the basic algorithm, choosing the number of clusters, visualizing the clusters, and relevant variations or evaluation methods included in the reference notebook.
 
-- Executed notebook: [Open the executed KMeans notebook](01_kmeans_clustering/01_kmeans_clustering_executed.ipynb)
-- Google Colab copy: 
+- Google Colab copy: https://colab.research.google.com/drive/1Y3FIxtcao1HT0W00ETM8rP9kM-fuKBM2#scrollTo=cI4V2Pm8BTYZ
 - YouTube walkthrough: 
 
 ## Part 2: AutoGluon capabilities landscape
 
 This notebook gives an overview of what AutoGluon can do for automated machine learning. It shows how the library can help with tasks such as tabular prediction and model selection while handling much of the training workflow automatically.
 
-- Executed notebook: [Open the AutoGluon capabilities notebook](02_autogluon_capabilities/02_autogluon_capabilities_executed.ipynb)
 - Google Colab copy: 
 - YouTube walkthrough: 
 
@@ -43,7 +41,6 @@ This notebook gives an overview of what AutoGluon can do for automated machine l
 
 This notebook follows a complete machine-learning workflow with AutoGluon. It includes preparing or loading data, training models, evaluating performance with metrics, comparing models, and using the trained predictor to make predictions.
 
-- Executed notebook: [Open the AutoGluon end-to-end notebook](03_autogluon_end_to_end/03_autogluon_end_to_end_executed.ipynb)
 - Google Colab copy: 
 - YouTube walkthrough: 
 
@@ -51,7 +48,6 @@ This notebook follows a complete machine-learning workflow with AutoGluon. It in
 
 This notebook compares CPU processing with GPU-accelerated processing using the NVIDIA RAPIDS ecosystem. The goal is to understand how GPU data-science libraries can speed up operations such as data loading, transformation, or machine-learning tasks when a compatible GPU is available.
 
-- Executed notebook: [Open the RAPIDS comparison notebook](04_rapids_cpu_gpu_comparison/04_rapids_cpu_gpu_comparison_executed.ipynb)
 - Google Colab copy: 
 - YouTube walkthrough: 
 
@@ -59,7 +55,6 @@ This notebook compares CPU processing with GPU-accelerated processing using the 
 
 This notebook explores PyCaret as a low-code AutoML library. It demonstrates how PyCaret can simplify common steps such as setting up an experiment, comparing models, selecting a model, evaluating it, and generating predictions.
 
-- Executed notebook: [Open the PyCaret capabilities notebook](05_pycaret_capabilities/05_pycaret_capabilities_executed.ipynb)
 - Google Colab copy: 
 - YouTube walkthrough: 
 
@@ -67,7 +62,6 @@ This notebook explores PyCaret as a low-code AutoML library. It demonstrates how
 
 This notebook focuses on the MLOps side of PyCaret. It demonstrates the steps used to move from model experimentation toward a reusable machine-learning workflow, such as saving a trained pipeline or model and using it later for prediction or deployment-related work.
 
-- Executed notebook: [Open the PyCaret MLOps notebook](06_pycaret_mlops/06_pycaret_mlops_executed.ipynb)
 - Google Colab copy: 
 - YouTube walkthrough: 
 
