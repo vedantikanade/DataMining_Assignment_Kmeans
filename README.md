@@ -34,36 +34,36 @@ This notebook demonstrates how KMeans groups similar data points into clusters. 
 
 This notebook gives an overview of what AutoGluon can do for automated machine learning. It shows how the library can help with tasks such as tabular prediction and model selection while handling much of the training workflow automatically.
 
-- Google Colab copy: 
-- YouTube walkthrough: 
+- Google Colab copy: https://colab.research.google.com/drive/1SE3_BWtwyEU_H-YrSYnmBtpBw40w3OKl?authuser=1#scrollTo=Inm6hfJgCqdT
+- YouTube walkthrough: https://youtu.be/r_os3vYxMcE
 
 ## Part 3: AutoGluon end-to-end machine learning
 
 This notebook follows a complete machine-learning workflow with AutoGluon. It includes preparing or loading data, training models, evaluating performance with metrics, comparing models, and using the trained predictor to make predictions.
 
 - Google Colab copy: 
-- YouTube walkthrough: 
+- YouTube walkthrough: https://youtu.be/Rj98nt_CQnU
 
 ## Part 4: NVIDIA RAPIDS compared with CPU-based processing
 
 This notebook compares CPU processing with GPU-accelerated processing using the NVIDIA RAPIDS ecosystem. The goal is to understand how GPU data-science libraries can speed up operations such as data loading, transformation, or machine-learning tasks when a compatible GPU is available.
 
 - Google Colab copy: 
-- YouTube walkthrough: 
+- YouTube walkthrough: https://youtu.be/knYs9qlSiBA
 
 ## Part 5: PyCaret capabilities landscape
 
 This notebook explores PyCaret as a low-code AutoML library. It demonstrates how PyCaret can simplify common steps such as setting up an experiment, comparing models, selecting a model, evaluating it, and generating predictions.
 
 - Google Colab copy: 
-- YouTube walkthrough: 
+- YouTube walkthrough: https://youtu.be/lnl82k3p4NI
 
 ## Part 6: PyCaret for MLOps
 
 This notebook focuses on the MLOps side of PyCaret. It demonstrates the steps used to move from model experimentation toward a reusable machine-learning workflow, such as saving a trained pipeline or model and using it later for prediction or deployment-related work.
 
 - Google Colab copy: 
-- YouTube walkthrough: 
+- YouTube walkthrough: https://youtu.be/bFPoOBLXxck
 
 ## Main concepts I learned
 
