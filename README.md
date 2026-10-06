@@ -41,28 +41,28 @@ This notebook gives an overview of what AutoGluon can do for automated machine l
 
 This notebook follows a complete machine-learning workflow with AutoGluon. It includes preparing or loading data, training models, evaluating performance with metrics, comparing models, and using the trained predictor to make predictions.
 
-- Google Colab copy: 
+- Google Colab copy: https://colab.research.google.com/drive/1AxVBwedMNl3msA1mur7m86ffZDfm7Mxl?authuser=1
 - YouTube walkthrough: https://youtu.be/Rj98nt_CQnU
 
 ## Part 4: NVIDIA RAPIDS compared with CPU-based processing
 
 This notebook compares CPU processing with GPU-accelerated processing using the NVIDIA RAPIDS ecosystem. The goal is to understand how GPU data-science libraries can speed up operations such as data loading, transformation, or machine-learning tasks when a compatible GPU is available.
 
-- Google Colab copy: 
+- Google Colab copy: https://colab.research.google.com/drive/1WenVjeo00MZVxRssNY6ZhX4ebf3y-rUM?authuser=1
 - YouTube walkthrough: https://youtu.be/knYs9qlSiBA
 
 ## Part 5: PyCaret capabilities landscape
 
 This notebook explores PyCaret as a low-code AutoML library. It demonstrates how PyCaret can simplify common steps such as setting up an experiment, comparing models, selecting a model, evaluating it, and generating predictions.
 
-- Google Colab copy: 
+- Google Colab copy: https://colab.research.google.com/drive/1A04mOC3iYHDvfemyJEdoTNiin4qBBqZk?authuser=1
 - YouTube walkthrough: https://youtu.be/lnl82k3p4NI
 
 ## Part 6: PyCaret for MLOps
 
 This notebook focuses on the MLOps side of PyCaret. It demonstrates the steps used to move from model experimentation toward a reusable machine-learning workflow, such as saving a trained pipeline or model and using it later for prediction or deployment-related work.
 
-- Google Colab copy: 
+- Google Colab copy: https://colab.research.google.com/drive/1v4bVEovEzqJcr5MVOLIMf1NgoVl706Q3?authuser=1
 - YouTube walkthrough: https://youtu.be/bFPoOBLXxck
 
 ## Main concepts I learned
